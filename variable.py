@@ -1,0 +1,10 @@
+CSS='css'
+XPATH='xpath'
+ID='id'
+icon_search='//a[@aria-label="搜尋"]'
+input_search_bar='//input[@type="search"]'
+ele_video_list='//div[@class="ScAspectSpacer-sc-18km980-0 fCNuzu"]'
+ele_cur_video='//video'
+icon_search='//a[@aria-label="搜尋"]'
+input_search_bar='//input[@type="search"]'
+target_item={'target_text':'StarCraft II', 'img_target':'//img[@alt="StarCraft II"]'}
